@@ -1,0 +1,10 @@
+START
+input Score A,B,C,D,E
+0<score<100
+set Score>=91 to A
+set score 90-81 to B
+set score 80-71 to C
+set score 70-61 to D
+set score 60-51 to E
+Output Fail
+End
